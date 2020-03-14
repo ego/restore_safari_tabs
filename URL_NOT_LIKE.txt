@@ -6,3 +6,8 @@
 %google.com/intl/ru_ALL/drive/%
 %xbet.com%
 https://developers.google.com/s/results/%
+https://www.google.com/imgres%
+https://www.google.com/maps%
+https://www.google.com/url?q%
+https://www.google.com/search?%
+%lun.ua/%
