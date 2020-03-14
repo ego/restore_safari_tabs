@@ -1,0 +1,8 @@
+%google.com/search%
+%translate.google.com%
+%instagram.com%
+%facebook.com%
+%google.com/gmail/%
+%google.com/intl/ru_ALL/drive/%
+%xbet.com%
+https://developers.google.com/s/results/%
