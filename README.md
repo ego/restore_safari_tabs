@@ -1,4 +1,6 @@
-# restore_safari_tabs.py
+# Moved to https://github.com/ego/MacOps/blob/main/restore_safari_tabs/README.md
+
+## restore_safari_tabs.py
 
 This script parse safari tabs from files:
 
